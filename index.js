@@ -20,9 +20,9 @@
    Se XP for maior ou igual a 10.001 = Radiante
 */
 
-nomeHeroi = "Zelda"
-xp = 8000
-nivel = ""
+let nomeHeroi = "Zelda"
+let xp = 8000
+let nivel = ""
 
 if (xp <= 1000) {
    nivel = "Ferro"
